@@ -13,7 +13,7 @@ empreinte environnementale.
 
 ### Le Projet
 En utilisant les données d'analyse en cycle de vie (ACV) de l'empreinte écologique des
-aliments fournies sur le site d'Agribalyse, votre mission consiste à concevoir et développer
+aliments fournies sur le site d'[Agribalyse](https://doc.agribalyse.fr/documentation/acces-donnees), votre mission consiste à concevoir et développer
 une solution permettant de visualiser l'impact écologique d'une recette. L'utilisateur fournira
 simplement le nom d'une recette, et votre solution devra trouver la liste des ingrédients et
 leurs quantités associées. De plus, vous devrez réaliser une analyse approfondie de l'impact
