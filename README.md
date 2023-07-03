@@ -43,14 +43,15 @@ alimentaire.
 consulter la documentation via ce lien : http://162.19.108.77:8000/docs . Comme de
 nombreuses API, vous devrez vous munir d'un token pour certaines requêtes qui
 seront limitées en nombre.
-La stack technologique
 
-### Pour ce projet :
+### La stack technologique
+Pour ce projet :
 - vous travaillerez en local sur votre machine via l'éditeur de texte Visual Studio Code.
 - vous mettrez en place des bonnes pratiques de code en travaillant sous un
 environnement virtuel pour la gestion de vos dépendances
 - vous utiliserez git pour gérer le versionning de votre projet.
-Déroulement du projet
+
+### Déroulement du projet
 Vous travaillerez en groupe de 3-4 étudiants. Durant ce projet vous devrez faire preuve
 d'autonomie en utilisant les différents supports de documentation à votre disposition (cours,
 documentation officielle, stackoverflow). L'utilisation de chatGPT n'est pas exclue, mais
