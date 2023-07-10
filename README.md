@@ -52,9 +52,9 @@ environnement virtuel pour la gestion de vos dépendances
 - vous utiliserez git pour gérer le versionning de votre projet.
 
 ### Déroulement du projet
-Vous travaillerez en groupe de 3-4 étudiants. Durant ce projet vous devrez faire preuve
-d'autonomie en utilisant les différents supports de documentation à votre disposition (cours,
-documentation officielle, stackoverflow). L'utilisation de chatGPT n'est pas exclue, mais
-utilisez cette ressource pour vous aider à comprendre comment fonctionne certaines notions
-ou fonctions, davantage que pour lui demander de créer le code à votre place. Si un blocage
-apparaît, n'hésitez pas à me demander un coup de pouce :)
+Durant ce projet vous devrez faire preuve d'autonomie en utilisant les différents supports 
+de documentation à votre disposition (cours, documentation officielle, stackoverflow). 
+L'utilisation de chatGPT n'est pas exclue, mais utilisez cette ressource pour vous aider
+à comprendre comment fonctionne certaines notions ou fonctions, davantage que pour lui 
+demander de créer le code à votre place. Si un blocage apparaît, n'hésitez pas à me demander 
+un coup de pouce :)
